@@ -1,0 +1,41 @@
+.titre-principal{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.floating-table {
+       float: right;
+       margin: 0 0 1em 1em;
+}
+
+ .floating-left {
+       float: left;  /* Modifier pour "right" si vous souhaitez que l'image soit à droite */
+       margin-right: 5px;
+       margin: 0 1em 1em 0;  /* Marge autour de l'image */
+   }
+
+   .floating-right {
+       float: right;  /* Modifier pour "right" si vous souhaitez que l'image soit à droite */
+       margin-left : 5px;
+       margin: 0 1em 1em 0;  /* Marge autour de l'image */
+   }
+
+
+   .txt-firebrick {
+    color: firebrick;
+}
+
+.double-space {
+    margin-bottom: 2em;
+}
+
+.align-top {
+    vertical-align: top;
+}
