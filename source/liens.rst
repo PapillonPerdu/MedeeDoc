@@ -8,11 +8,12 @@ Liens
 **Cliquer une fois** sur un **lien** fait apparaître :
 
 
-- une :ref:`notice de présentation <notice liens>` du lien (dans le coin supérieur gauche du graphe) ;
+- une :ref:`notice de présentation <_notice_liens>` du lien (dans le coin supérieur gauche du graphe) ;
 
 
 - un bandeau à gauche avec des informations sur le lien :
 
+.. _notice_liens:
 
 Notice
 ======

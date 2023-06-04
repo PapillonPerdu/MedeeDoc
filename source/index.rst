@@ -10,7 +10,7 @@ Ce graphe propose :
 - un accès aux textes disponibles en ligne ;
 - des indications sur les relations entre les textes des éditions ;
 - des notes de présentation sur les textes et leurs liens ;
-- des indications bibliographiques détaillées sur chaque texte ;
+- des indications bibliographiques détaillées sur chaque texte.
 
 Des bulles d’aide dans le graphe donnent des indications sur les fonctions disponibles.
 
