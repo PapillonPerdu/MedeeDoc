@@ -134,7 +134,7 @@ Plusieurs éléments sont cliquables et permettent de sélectionner les nœuds a
 
    Éditions publiées la même année que Briggs 1620
 
-Pour dé-sélectionner les nœuds sélectionner :
+Pour dé-sélectionner les nœuds sélectionnés :
 
 .. figure:: _static/images/fr/menu_barre_deselectionner.png
    :align: center
@@ -200,9 +200,9 @@ Cliquer sur un mot-clef sélectionne les nœuds avec le mot-clef. Le mot-clef s�
 .. figure:: _static/images/fr/menu_ref_mot-clef_noeuds_selectionnes.png
    :align: center
 
-   Noeuds avec le mot-clef D6-NC10
+   Nœuds avec le mot-clef D6-NC10
 
-Cliquer à nouveau sur le mot-clef clef le dé-sélectionne.
+Cliquer à nouveau sur le mot-clef le dé-sélectionne.
 
 Ctrl+Clique affiche la définition du mot-clef :
 
@@ -211,14 +211,14 @@ Ctrl+Clique affiche la définition du mot-clef :
 
    Définition d’un mot-clef (Ctrl + Clique)
 
-Plusieurs mot-clefs peuvent être sélectionnés simultanément. Les noeuds sélectionnés sont ceux qui ont tous les mots-clefs sélectionnés.
+Plusieurs mot-clefs peuvent être sélectionnés simultanément. Les nœuds sélectionnés sont ceux qui ont tous les mots-clefs sélectionnés.
 
 .. figure:: _static/images/fr/menu_ref_mots-clefs_noeuds_selectionnes.png
    :align: center
 
    Nœuds avec les mot-clefs D5=D, D6-NC10, D6=D
 
-Shift + clique sur le mot-clef sélectionne les nœuds n’ayant pas le mot-clef sélectionné.
+Shift + clique sur le mot-clef sélectionne les nœuds n’ayant pas le mot-clef sélectionné. Les mots-clefs apparaissent en rouge précédés d'une croix rouge.
 
 .. figure:: _static/images/fr/menu_ref_mots_clefs_noeuds_exclus.png
    :align: center
@@ -322,6 +322,8 @@ Voisinages
 Bibliographie
 -------------
 A chaque nœud est associé un ensemble de références distinguées suivant le type de leur lien au noeud et leur position (en source ou en but).
+
+Voir aussi :ref:`Références` pour explorer les références sur l'ensemble des nœuds du graphe.
 
 Biblio - Personnes - Institutions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

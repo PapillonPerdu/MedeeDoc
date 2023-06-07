@@ -20,13 +20,13 @@ Menu global
 - Réinitialiser : réinitialise la période de la vue
 - “Supprimer les filtres” : supprime un filtre appliqué. Montre tous les nœuds.
 
-Curseur de précision
-====================
+Curseur de précision et degrés des nœuds
+========================================
 
 .. figure:: _static/images/fr/menu_graph_curseur_precision.png
    :align: center
 
-   Règle les Nœuds montrés selon le degré de leurs liens entrants
+   Règle les nœuds montrés selon le degré de leurs liens entrants
 
 Le curseur fait varier les nœuds en fonction du nombre de liens qu'ils ont entants (pour lesquels ils sont en but), sortants (pour lesquels ils sont en source) ou mixtes (les deux).
 
@@ -43,12 +43,45 @@ Le curseur fait varier les nœuds en fonction du nombre de liens qu'ils ont enta
 .. image:: _static/images/fr/menu_graph_curseur_precision_sortant_modifie_pointeur.png
    :align: center
 
+
 .. figure:: _static/images/fr/menu_graph_curseur_precision_sortant_modifie_output.png
    :align: center
 
    Restriction des nœuds montrés suivant leur nombre de liens sortants
 
 On remarque, par exemple, que l'édition de Théon, qui n'a aucun lien sortants, n'apparaît plus.
+
+Le degré d'un nœud pour l'orientation choisie est donné dans le menu local.
+
+.. figure:: _static/images/fr/menu_local_degre_entrant.png
+   :align: center
+
+   Degré entrant du Vat. 1051
+
+.. figure:: _static/images/fr/menu_local_degre_mixte.png
+   :align: center
+
+   Degré mixte du Vat. 1051
+
+.. figure:: _static/images/fr/menu_local_degre_sortant.png
+   :align: center
+
+   Degré sortant du Vat. 1051
+
+Si l'on modifie le voisinage, en masquant par exemple l'Ambros. C 311 inf., le degré mixte et entrant sont modifiés :
+
+.. figure:: _static/images/fr/menu_local_degre_mixte_modifie.png
+   :align: center
+
+   Degré mixte modifié du Vat. 1051
+
+Les degrés d'un nœud sont mis à jour lors du changement d'orientation (entrant, mixte, sortant) ou en cliquant sur "Degré" :
+
+.. figure:: _static/images/fr/menu_info_degre_pointeur.png
+   :align: center
+
+   Degré mixte modifié du Vat. 1051
+
 
 Curseur des années
 ==================

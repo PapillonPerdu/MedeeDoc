@@ -616,6 +616,8 @@ Références
 
 Les fonctions du menu “Références” permettent de sélectionner, montrer ou masquer les nœuds et les liens avec ou sans références associées du type choisi (biblio, personnes, institutions ou revues) suivant un type de lien choisi (Etude sur, remarques sur, etc.). Le résultat s’applique uniquement aux nœuds et aux liens visibles. On peut ainsi se limiter à une partie du graphe.
 
+Voire :ref:`Bibliographie` pour les références associées à un nœud particulier.
+
 Sélectionne les manuscrits grecs et leurs liens auxquels une étude a été consacrée (i.e. enregistrée dans Thamous…) :
 
 .. figure:: _static/images/fr/menu_droit_references_etudes_sur.png
