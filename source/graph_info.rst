@@ -49,38 +49,7 @@ Le curseur fait varier les nœuds en fonction du nombre de liens qu'ils ont enta
 
    Restriction des nœuds montrés suivant leur nombre de liens sortants
 
-On remarque, par exemple, que l'édition de Théon, qui n'a aucun lien sortants, n'apparaît plus.
-
-Le degré d'un nœud pour l'orientation choisie est donné dans le menu local.
-
-.. figure:: _static/images/fr/menu_local_degre_entrant.png
-   :align: center
-
-   Degré entrant du Vat. 1051
-
-.. figure:: _static/images/fr/menu_local_degre_mixte.png
-   :align: center
-
-   Degré mixte du Vat. 1051
-
-.. figure:: _static/images/fr/menu_local_degre_sortant.png
-   :align: center
-
-   Degré sortant du Vat. 1051
-
-Si l'on modifie le voisinage, en masquant par exemple l'Ambros. C 311 inf., le degré mixte et entrant sont modifiés :
-
-.. figure:: _static/images/fr/menu_local_degre_mixte_modifie.png
-   :align: center
-
-   Degré mixte modifié du Vat. 1051
-
-Les degrés d'un nœud sont mis à jour lors du changement d'orientation (entrant, mixte, sortant) ou en cliquant sur "Degré" :
-
-.. figure:: _static/images/fr/menu_info_degre_pointeur.png
-   :align: center
-
-   Degré mixte modifié du Vat. 1051
+L'édition de Théon, qui n'a aucun lien sortants, n'apparaît plus.
 
 
 Curseur des années
@@ -93,7 +62,7 @@ Curseur des années
 .. figure:: _static/images/fr/menu_graph_curseur_annee_output.png
    :align: center
 
-   Années des nœuds visibles comprises entre814 et 1462
+   Années des nœuds visibles comprises entre 814 et 1462
 
 Supprimer les filtres
 =====================
