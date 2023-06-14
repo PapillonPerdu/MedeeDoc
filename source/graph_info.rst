@@ -5,7 +5,7 @@ Menu global
 
 .. cssclass:: centered-image
 
-.. image:: _static/images/fr/menu_info.png
+.. image:: _static/images/menu_info.png
    :align: center
 
 - “Présentations” donne accès à divers textes de présentation du graphe :

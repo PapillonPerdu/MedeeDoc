@@ -75,12 +75,16 @@ html_css_files = ['custom.css']
 
 
 rst_prolog = """
-.. image:: _static/images/fr/bandeau_Medee.png
+.. image:: _static/images/bandeau_Medee.png
    :align: center
 """
 
 
 # URL de base des liens
 html_baseurl = "https://thamous.univ-rennes1.fr/docs/Medee/html"
+
+# Folder containing en_GB, etc. for translations
+locale_dirs = ['locales']
+
 
 

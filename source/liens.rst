@@ -2,7 +2,7 @@
 
 Liens
 #####
-.. image:: _static/images/fr/menu_lien.png
+.. image:: _static/images/menu_lien.png
    :class: floating-left
 
 **Cliquer une fois** sur un **lien** fait apparaître :
@@ -18,14 +18,14 @@ Liens
 Notice
 ======
 
-.. image:: _static/images/fr/notice_lien_seule.png
+.. image:: _static/images/notice_lien_seule.png
    :align: center
 
 **Cliquer une fois** sur un **lien** pour faire apparaître sa notice.
 
 **Cliquer sur le fond** du graphe pour masquer la notice.
 
-.. figure:: _static/images/fr/liens_notice_zoom.png
+.. figure:: _static/images/liens_notice_zoom.png
    :class: floating-right
    :width: 500px
 
@@ -33,7 +33,7 @@ Notice
 
 Informations sur un lien
 ========================
-.. figure:: _static/images/fr/menu_lien_lien_menu.png
+.. figure:: _static/images/menu_lien_lien_menu.png
    :align: center
 
    Cliquer sur un lien fait apparaître les informations sur celui-ci
@@ -42,14 +42,14 @@ Informations sur un lien
 
 - une notice de présentation du texte (dans le coin supérieur gauche du graphe) ;
 
-.. figure:: _static/images/fr/menu_lien_notice_seule.png
+.. figure:: _static/images/menu_lien_notice_seule.png
    :align: center
 
    Notice sur le lien entre le Bodl. F.3.16 et le Paris. 2346
 
 - un bandeau d'informations sur le lien.
 
-.. figure:: _static/images/fr/menu_lien_menu.png
+.. figure:: _static/images/menu_lien_menu.png
    :align: center
 
    Informations attachées à un lien
@@ -58,7 +58,7 @@ Informations sur un lien
 
 Bandeau de gauche
 -----------------
-.. image:: _static/images/fr/menu_lien_menu.png
+.. image:: _static/images/menu_lien_menu.png
    :class: floating-left
 
 Le bandeau à gauche associé à chaque lien comprend :
@@ -80,7 +80,7 @@ Buts - Sources
 
 Les références bibliographiques données (voir ci-dessous) sont par défaut les références en source du lien, c’est-à-dire celles qui portent sur le lien considéré. Il est possible d’afficher aussi les référence en but, c’est-à-dire les références auxquelles se rapporte le lien considéré.
 
-.. figure:: _static/images/fr/menu_lien_biblio.png
+.. figure:: _static/images/menu_lien_biblio.png
    :class: floating-left
 
 Cliquer sur un type de lien fait apparaître la liste des références en source d’un lien du type considéré. Ici les références faisant des “remarques sur” le lien "copie de" entre le Bodl. F.3.16 et le Paris. 2346.
