@@ -6,7 +6,7 @@ Documentation de Méδée
 
 Ce graphe propose :
 
-- un recensement des principaux manuscrites et des imprimées des Éléments d’Euclide ;
+- un recensement des principaux manuscrites et des imprimées des *Éléments* d'Euclide ;
 - un accès aux textes disponibles en ligne ;
 - des indications sur les relations entre les textes des éditions ;
 - des notes de présentation sur les textes et leurs liens ;

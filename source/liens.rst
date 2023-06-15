@@ -3,7 +3,7 @@
 Liens
 #####
 .. image:: _static/images/menu_lien.png
-   :class: floating-left
+   :class: center
 
 **Cliquer une fois** sur un **lien** fait apparaître :
 
@@ -13,7 +13,7 @@ Liens
 
 - un bandeau à gauche avec des informations sur le lien :
 
-.. _notice_liens:
+.. _notice_liens: 
 
 Notice
 ======
